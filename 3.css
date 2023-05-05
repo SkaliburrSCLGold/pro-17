@@ -1,0 +1,15 @@
+body{
+    background-color: black;
+}
+section{
+    display: flex;
+    align-items: center;
+    color: white;
+    background-color:rgb(36, 30, 128);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+p{
+    color: white;
+  background-color :rgb(51, 7, 87) ;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
